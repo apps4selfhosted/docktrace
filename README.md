@@ -4,6 +4,11 @@
 
 <h1 align="center">DockTrace</h1>
 
+<p align="center">
+  <strong>An unofficial, independent app for <a href="https://github.com/amir20/dozzle">Dozzle</a>.</strong><br>
+  Not affiliated with, developed, endorsed or reviewed by the maintainers of Dozzle.
+</p>
+
 <p align="center"><strong>Understand container trouble. In seconds.</strong></p>
 
 <p align="center">
@@ -24,8 +29,9 @@
 
 ---
 
-> DockTrace is an independent, unofficial community client. It is not part of the official
-> Dozzle project — with respect and thanks to the team that builds and maintains it.
+> DockTrace is a community project by Sven Hanold. It is not part of the official Dozzle
+> project. The name Dozzle is used here only to say what this app connects to —
+> with respect and thanks to the people who build and maintain it.
 
 ## Screenshots
 
